@@ -1,6 +1,6 @@
-# GitHub Action for generating contribution animations.
+# GitHub Action for generating 3D Contribution City.
 
-name: Generate Contribution Games
+name: Generate 3D Contribution City
 
 on:
   schedule:
@@ -15,34 +15,6 @@ on:
       - main
 
 jobs:
-  # ── Snake Animation ─────────────────────────────────────────
-  snake:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # ── 3D Contribution City ────────────────────────────────────
   contrib-3d:
     runs-on: ubuntu-latest
     permissions:
