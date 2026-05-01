@@ -1,21 +1,109 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naomi+Pereira!;" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naomi+Pereira!;Building+Agentic+AI+🤖;Crafting+Intelligent+Systems+✨" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naomiiap&label=Profile%20views&color=0e75b6&style=flat" alt="naomiiap" /> </p>
 
-- 📫 How to reach me **pereiranaomi3@gmail.com**
-  <br><br>
-
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/github-contribution-grid-snake.svg" />
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/naomiandreapereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naomiandreapereira" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1206624784826241047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="um" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=naomiiap&label=Profile%20views&color=0e75b6&style=flat" alt="naomiiap" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- ───────────────────────────── ABOUT ME ───────────────────────────── -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naomiiap&show_icons=true&locale=en" alt="naomiiap" /></p>
+<h2>🧠 About Me</h2>
 
+```yaml
+name: Naomi Pereira
+current_focus: Agentic AI — building autonomous, goal-driven AI systems
+interests:
+  - LLM-powered agents & multi-agent orchestration
+  - Full-stack web development
+  - Machine Learning & Data Science
+fun_fact: I believe the future is agents that code themselves ✨
+```
+
+<!-- ───────────────────────── TECH STACK ─────────────────────────── -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+    </td>
+  </tr>
+</table>
+
+<!-- ──────────────────── CONTRIBUTION GAMES ──────────────────────── -->
+
+<h2>🎮 Contribution Games</h2>
+
+<h3>🐍 Snake</h3>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/github-contribution-grid-snake.svg" />
+        <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/github-contribution-grid-snake.svg" />
+    </picture>
+</p>
+
+<h3>👾 Pac-Man</h3>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/pacman-contribution-graph-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/pacman-contribution-graph.svg" />
+        <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/Naomiiap/Naomiiap/output/pacman-contribution-graph.svg" />
+    </picture>
+</p>
+
+<!-- ──────────────────────── GITHUB STATS ────────────────────────── -->
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naomiiap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Naomi's GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naomiiap&theme=tokyonight&hide_border=true&border_radius=12" alt="Naomi's Streak Stats" />
+</p>
+
+<p align="center">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomiiap&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+</p>
+
+<!-- ──────────────────────── CONNECT ─────────────────────────────── -->
+
+<h2>🤝 Connect with Me</h2>
+
+<p align="center">
+    <a href="mailto:pereiranaomi3@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://kaggle.com/naomiandreapereira">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
+    <a href="https://discordapp.com/users/1206624784826241047">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+</p>
+
+<!-- ──────────────────────── FOOTER ──────────────────────────────── -->
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
